@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rnative-chart",
+    "slug": "rnative-chart",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rnative-chart"
+}
